@@ -23,6 +23,13 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ### New Website Preview
 ![Alt text](Screenshots/Activity3_demo.png)
 
+## Activity 4 Screenshots
+### Embed Map Commits
+![Alt text](Screenshots/Activity4.png)
+
+### Embed Map Preview
+![Alt text](Screenshots/Activity4_demo.png)
+
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
