@@ -5,10 +5,13 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ## Activity 1 Screenshot
 ![Alt text](Screenshots/Activity1.png)
 
+## Activity 2 Screenshots
+### Index.html change commit
+![Alt text](Screenshots/Activity2.png)
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://jhimanish.github.io" target="_blank"><img src="examples/preview.png">
   </a>
   </kbd>
 </p>
