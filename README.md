@@ -16,6 +16,13 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
   </kbd>
 </p>
 
+## Activity 3 Screenshots
+### Background Color Change commits
+![Alt text](Screenshots/Activity3.png)
+
+### New Website Preview
+![Alt text](Screenshots/Activity3_demo.png)
+
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
