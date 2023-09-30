@@ -356,7 +356,7 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .orange {
   padding: 0 10px;
 }
 
@@ -573,6 +573,11 @@ small {
 
 .orange {
   background-color: #ffb347 !important;
+}
+
+.typing {
+  font-weight: 300;
+  color: #ffb347;
 }
 
 /* .teal {
