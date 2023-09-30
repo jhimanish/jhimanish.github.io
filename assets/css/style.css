@@ -325,7 +325,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #2844bf repeat;
+  background: #4477b2 repeat;
   position: relative;
 }
 
@@ -581,7 +581,11 @@ small {
 
 .typing {
   font-weight: 300;
-  color: #4477b2;
+  color: #2844bf;
+}
+
+.title-color {
+  background-color: #2844bf !important;
 }
 
 /* .teal {
